@@ -1,0 +1,6 @@
+    {
+        "ConnectionStrings": {
+            "DefaultConnection": "Server=IMMORTELLE\\SQLEXPRESS;Database=MovieDB;Trusted_Connection=True;MultipleActiveResultSets=true"
+        }
+    }
+
