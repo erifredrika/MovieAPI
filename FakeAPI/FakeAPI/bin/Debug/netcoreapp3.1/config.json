@@ -1,6 +1,5 @@
-    {
-        "ConnectionStrings": {
-            "DefaultConnection": "Server=IMMORTELLE\\SQLEXPRESS;Database=MovieDB;Trusted_Connection=True;MultipleActiveResultSets=true"
-        }
-    }
-
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Database=LudoGame;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
