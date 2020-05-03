@@ -4951,23 +4951,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\erifr\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\sebas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erifr\\source\\repos\\FakeAPI\\FakeAPI\\FakeAPI.csproj",
+      "projectUniqueName": "D:\\skola\\backend\\movie Api Backend Project\\MovieAPI\\FakeAPI\\FakeAPI\\FakeAPI.csproj",
       "projectName": "FakeAPI",
-      "projectPath": "C:\\Users\\erifr\\source\\repos\\FakeAPI\\FakeAPI\\FakeAPI.csproj",
-      "packagesPath": "C:\\Users\\erifr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erifr\\source\\repos\\FakeAPI\\FakeAPI\\obj\\",
+      "projectPath": "D:\\skola\\backend\\movie Api Backend Project\\MovieAPI\\FakeAPI\\FakeAPI\\FakeAPI.csproj",
+      "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+      "outputPath": "D:\\skola\\backend\\movie Api Backend Project\\MovieAPI\\FakeAPI\\FakeAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\erifr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4975,7 +4971,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.emzi0767.com/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -5024,7 +5021,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
