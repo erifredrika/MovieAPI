@@ -1,4 +1,4 @@
-# Daily Schedule 
+# Weekly Schedule 
 | Monday           | Tuesday    | Wednesday        | Thursday | Friday  |
 | :--------------- |:-----------|:-----------------|:---------|:--------|
 |Lektion 8:30      |            |Lektion 8:30-16:30|          |         |
