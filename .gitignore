@@ -79,3 +79,7 @@ _[Ss]cripts
 *.ncrunchsolution
 *.dot[Cc]over
 FakeAPI/FakeAPI/bin/Debug/netcoreapp3.1/config.json
+FakeAPI/.vs/FakeAPI/DesignTimeBuild/.dtbcache.v2
+FakeAPI/.vs/FakeAPI/v16/.suo
+FakeAPI/.vs/FakeAPI/v16/.suo
+FakeAPI/.vs/FakeAPI/v16/.suo
